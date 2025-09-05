@@ -59,9 +59,9 @@
 // | SHFT, CAPS |     |     |       |     |      |   |     | LFT | DWN | RGT |     |      |
 //                          | LCTRL |     | LGUI |   | SPC |     | ALT |
                         bindings = <
-   &kp ESC          &kp N1   &kp N2   &kp N3     &kp N4   &kp N5        &kp N6     &kp N7    &kp N8    &kp N9     &kp N0  &kp BSPC
-   &kp TAB          &none    &none    &none      &none    &none         &none      &none     &kp UP    &none      &none   &kp RET
-   &td_shift_caps   &none    &none    &none      &none    &none         &none      &kp LEFT  &kp DOWN  &kp RIGHT  &none   &mt RSHFT SQT
+   &kp ESC          &kp N1   &kp N2   &kp N3     &kp N4   &kp N5        &kp N6     &kp N7    &kp N8    &kp N9     &kp N0      &kp BSPC
+   &kp TAB          &none    &none    &none      &none    &none         &none      &none     &none     &kp UP     &none       &kp RET
+   &td_shift_caps   &none    &none    &none      &none    &none         &none      &none     &kp LEFT  &kp DOWN   &kp RIGHT   &mt RSHFT SQT
                                       &kp LCTRL  &mo 3   &kp LGUI      &kp SPACE  &trans     &kp RALT
                         >;
                 };
