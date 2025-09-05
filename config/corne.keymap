@@ -62,7 +62,7 @@
    &kp ESC          &kp N1   &kp N2   &kp N3     &kp N4   &kp N5        &kp N6     &kp N7    &kp N8    &kp N9     &kp N0  &kp BSPC
    &kp TAB          &none    &none    &none      &none    &none         &none      &none     &kp UP    &none      &none   &kp RET
    &td_shift_caps   &none    &none    &none      &none    &none         &none      &kp LEFT  &kp DOWN  &kp RIGHT  &none   &mt RSHFT SQT
-                                      &kp LCTRL  &trans   &kp LGUI      &kp SPACE  &mo 3     &kp RALT
+                                      &kp LCTRL  &mo 3   &kp LGUI      &kp SPACE  &trans     &kp RALT
                         >;
                 };
 
@@ -76,7 +76,7 @@
    &kp ESC          &kp EXCL  &kp AT     &kp HASH   &kp DLLR   &kp PRCNT     &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR &kp BSPC
    &kp TAB          &none     &none      &none      &none      &none         &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT &kp BSLH &kp GRAVE
    &td_shift_caps   &none     &none      &none      &none      &none         &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
-                                         &kp LCTRL  &mo 3      &kp LGUI      &kp SPACE   &trans    &kp RALT
+                                         &kp LCTRL  &trans      &kp LGUI      &kp SPACE   &mo 3    &kp RALT
                         >;
                 };
 
